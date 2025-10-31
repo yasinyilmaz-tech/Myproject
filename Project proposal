@@ -1,0 +1,48 @@
+Project Proposal: The Modern Goalkeeper’s Dilemma — Balancing Traditional Shot-Stopping and Playmaking Roles
+1. Title Page
+Project Title: The Modern Goalkeeper’s Dilemma: Between the Posts and Beyond the Box
+Proposer: [Yasin Yılmaz]
+Date: [31/10/2025]
+
+2. Executive Summary
+In modern football, the goalkeeper’s responsibilities have evolved dramatically. No longer confined to traditional shot-stopping, goalkeepers are now expected to participate actively in team buildup, distribution, and tactical play. This shift—popularized by managers like Pep Guardiola and Jürgen Klopp—creates a “goalkeeper dilemma”: the trade-off between defensive reliability and offensive contribution.
+This project aims to analyze how this tactical evolution affects goalkeeper performance, team strategy, and recruitment criteria using statistical data, tactical analysis, and expert interviews.
+3. Background / Problem Statement
+Historically, goalkeepers were evaluated based on reflexes, positioning, and command of the penalty area. However, with the rise of possession-based football and high pressing systems, teams now require goalkeepers who can play with their feet, initiate attacks, and operate almost as an extra defender.
+This dual expectation introduces tension: should clubs prioritize traditional goalkeeping skills or modern playmaking abilities? Some top teams (e.g., Manchester City with Ederson, Bayern Munich with Neuer) embrace the “sweeper-keeper” model, while others still prefer more conventional keepers.
+The lack of consensus highlights a gap in understanding how this transition impacts team performance and tactical identity.
+4. Objectives
+Analyze the evolution of the goalkeeper’s tactical role from 2000–2025.
+Compare performance metrics (save %, pass accuracy, progressive passes, defensive actions outside the box) among elite goalkeepers.
+Assess how different playing styles (possession-based vs. direct) influence the ideal goalkeeper profile.
+Propose a balanced model defining the optimal skill mix for modern goalkeepers.
+5. Project Scope and Deliverables
+Scope:
+Focus on top European leagues (Premier League, Bundesliga, La Liga)
+Time frame: 2000–2025
+Data-driven and qualitative analysis
+Deliverables:
+A research report (~20 pages) with data visualizations
+Comparative statistical profiles of 10–15 elite goalkeepers
+Tactical case studies (e.g., Neuer, Alisson, Ederson, Courtois)
+Final presentation and recommendations
+6. Methodology / Approach
+Data Collection:
+Obtain goalkeeper statistics from reliable databases (FBref, StatsBomb, Transfermarkt).
+Quantitative Analysis:
+Use Python or Excel to analyze trends in metrics like:
+Save %
+Pass accuracy (short, long, under pressure)
+Defensive actions outside the penalty area
+Goal prevention vs. build-up involvement scores
+10. Expected Outcomes
+A clearer understanding of how modern tactics redefine goalkeeper value.
+A data-backed framework helping coaches and scouts identify goalkeepers suited to their team’s style.
+Insights into how future goalkeeper training should balance footwork and traditional skills.
+11. Conclusion
+This project bridges tactical theory and performance analytics to address one of football’s most dynamic evolutions: the transformation of the goalkeeper role. By blending data and tactical context, the study aims to clarify the balance between risk and reliability—the essence of the modern goalkeeper’s dilemma.
+12. References
+StatsBomb Data Reports (2019–2024)
+FBref Advanced Goalkeeper Stats
+Wilson, J. (2013). Inverting the Pyramid: The History of Football Tactics.
+Articles from The Athletic, Sky Sports, and Opta Analyst
